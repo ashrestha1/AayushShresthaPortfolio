@@ -1,6 +1,6 @@
-import React from "react";
-import Typewriter from "typewriter-effect";
-import styled from "styled-components";
+import React from 'react';
+import Typewriter from 'typewriter-effect';
+import styled from 'styled-components';
 
 const MyTitleMessage = styled.h1`
   position: absolute;
@@ -14,7 +14,7 @@ const MyTitleMessage = styled.h1`
     font-size: 1.25em;
   }
   div {
-    color: ${props => props.theme.textColor};
+    color: ${(props) => props.theme.textColor};
 
     text-shadow: 0px 2px 5px rgba(0, 0, 0, 0.4);
     font-weight: 100;
@@ -39,16 +39,16 @@ const TitleMessage = () => (
           Hi, I am
           <br />
           <span>
-            <strong>Anand Kumar Jha</strong>
+            <strong>Aayush Shrestha</strong>
           </span>
         </div>
         <div className="sub">
           <Typewriter
             options={{
-              strings: ["Web Developer", "Coach", "Learner"],
+              strings: ['Web Developer', 'Coach', 'Learner'],
               autoStart: true,
               loop: true,
-              delay: 50
+              delay: 50,
             }}
           />
         </div>
