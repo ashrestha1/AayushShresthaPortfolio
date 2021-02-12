@@ -1,15 +1,18 @@
-.logo {
-  width: 25%;
-}
-
 .nav-theme {
   background-color: #101018f8;
-  font-size: 20px;
+  font-size: 15px;
+}
+.bar {
+  justify-content: space-around;
 }
 
 .animate-navbar {
   box-shadow: 1px 1px 1px #222;
   animation: moveDown 0.5s ease-in-out;
+}
+.name {
+  color: white;
+  font-size: 18px;
 }
 
 @keyframes moveDown {
