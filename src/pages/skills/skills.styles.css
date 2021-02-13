@@ -1,3 +1,7 @@
+* {
+  font-family: 'Karla', sans-serif;
+}
+
 .focus {
   transition: transform 0.3s;
 }
@@ -7,8 +11,8 @@
 }
 
 .card-title {
-  font-size: 2em;
-  font-weight: 700;
+  font-size: 1.8em;
+  font-weight: 550;
 }
 
 .image-style {
@@ -22,7 +26,8 @@
 }
 
 .font-details-b {
-  font-size: 3em;
-  font-weight: 500;
-  color: #ffffff;
+  font-size: 2.5rem;
+  font-weight: 800;
+  text-align: center;
+  font-family: 'Karla', sans-serif;
 }

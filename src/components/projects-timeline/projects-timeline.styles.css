@@ -1,12 +1,15 @@
 body {
   font-size: 16px;
   color: rgb(53, 53, 53);
+  font-family: 'Karla', sans-serif;
 }
 
 .title {
-  font-size: 5em;
+  font-size: 2.5rem;
+  margin-bottom: 2%;
+  font-weight: 800;
   text-align: center;
-  font-family: 'Bebas Neue', sans-serif;
+  font-family: 'Karla', sans-serif;
 }
 
 h3 {
