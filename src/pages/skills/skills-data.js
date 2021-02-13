@@ -109,12 +109,6 @@ export const skills = {
   ],
   databases: [
     {
-      link: 'https://www.postgresql.org/',
-      imgAltText: 'PostgreSQL',
-      imgSrc: L_POSTGRESQL,
-      skillName: 'PostgreSQL',
-    },
-    {
       link: 'https://www.microsoft.com/en-us/sql-server/sql-server-2019',
       imgAltText: 'MS-SQL',
       imgSrc: L_MSSQL,
