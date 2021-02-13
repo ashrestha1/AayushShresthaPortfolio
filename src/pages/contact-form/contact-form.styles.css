@@ -1,5 +1,5 @@
 .contact-jumbotron {
-  background-image: url("../../assets/img/background/background.webp");
+  background-image: url('../../assets/img/background/background.webp');
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -8,7 +8,12 @@
   border-color: #f83f37;
   color: #f83f37;
 }
-#youtube-btn:hover {
-  background-color: #f83f37;
-  color: #ffffff;
+.btn:hover {
+  color: #0057b4;
+  background-color: transparent;
+}
+.btn {
+  background-color: transparent;
+  color: #007bff;
+  border: transparent;
 }

@@ -23,6 +23,7 @@ import L_JAVASCRIPT from '../../assets/img/skills/javascript.svg';
 import L_TYPESCRIPT from '../../assets/img/skills/typescript.svg';
 import L_GOLANG from '../../assets/img/skills/go-6.svg';
 import L_PYTHON from '../../assets/img/skills/python.svg';
+import L_C_PLUS_PLUS from '../../assets/img/skills/C++.svg';
 
 export const skills = {
   frontend: [
@@ -105,6 +106,12 @@ export const skills = {
       imgAltText: 'Python',
       imgSrc: L_PYTHON,
       skillName: 'Python',
+    },
+    {
+      link: 'https://www.cplusplus.com/',
+      imgAltText: 'C++',
+      imgSrc: L_C_PLUS_PLUS,
+      skillName: 'C++',
     },
   ],
   databases: [

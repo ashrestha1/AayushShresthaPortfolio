@@ -29,7 +29,7 @@ const About = () => {
                   </Row>
                 </Col>
                 <Col xs={12} md={6}>
-                  <Row className="align-items-start my-details rounded">
+                  <Row className=" my-details align-items-start  rounded">
                     Hi! I am <strong>&nbsp; Aayush Shrestha</strong>
                     <br />
                     I’m an undergraduate student at the Hong Kong University of
