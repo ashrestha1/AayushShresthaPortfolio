@@ -17,7 +17,7 @@ const App = () => {
     <div className="App" style={{ position: 'relative' }}>
       <MyNavbar />
 
-      <div className="parallaxBg">
+      <div className="parallaxBg" id="about">
         <Parallax blur={{ min: -30, max: 30 }} strength={-200}>
           <div>
             <Container className="container-box rounded">

@@ -5,20 +5,19 @@ import Col from 'react-bootstrap/Col';
 import './about.styles.css';
 import Profile from '../../assets/img/profile/fypms.jpg';
 import Image from 'react-bootstrap/Image';
-import Jumbotron from 'react-bootstrap/Jumbotron';
 import Card from 'react-bootstrap/Card';
 import Tilt from 'react-tilt';
 const About = () => {
   return (
-    <div id="about">
+    <div>
       <div className="about">
         <Tilt options={{ max: 25 }}>
           <Card>
             <Container className="firstContainer">
               <h1 className="title1">About me</h1>
-              <Row className="pt-3 pb-5 align-items-center">
+              <Row className="pic_text pt-3 pb-3">
                 <Col xs={12} md={6}>
-                  <Row className="justify-content-center mb-2 mr-2 ">
+                  <Row className="justify-content-center mb-2">
                     <Image
                       className="profile justify-content-end"
                       alt="profile"
