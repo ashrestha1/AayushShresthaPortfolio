@@ -13,6 +13,7 @@ import { ReactComponent as AnchorIcon } from './anchor.svg';
 import { ReactComponent as TowerIcon } from './tower.svg';
 import { ReactComponent as FYPIcon } from './fyp.svg';
 import { ReactComponent as SkymontIcon } from './skymont.svg';
+import obama from '../../assets/img/experience/obama.jpg';
 import skymontLogo from '../../assets/img/experience/skymont1.jpg';
 import anchorLogo from '../../assets/img/experience/anchor.jpg';
 import wisLogo from '../../assets/img/experience/wislogo.png';
@@ -137,6 +138,17 @@ const TimeLine = () => {
                   {element.location}
                 </h5>
                 <p id="description">{element.description}</p>
+                {showAudio && (
+                  <div class="polaroid">
+                    <img src={obama} alt="obama" style={{ width: '100%' }} />
+                    <div class="container">
+                      <p style={{ marginTop: -5 }}>Barack Obama</p>
+                      <p style={{ fontSize: 10, marginTop: -5 }}>
+                        44th U.S. President
+                      </p>
+                    </div>
+                  </div>
+                )}
 
                 {showAudio && (
                   <p style={{ fontSize: 11 }}>
