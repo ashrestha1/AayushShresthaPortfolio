@@ -7,6 +7,8 @@ import Profile from '../../assets/img/profile/fypms.jpg';
 import Image from 'react-bootstrap/Image';
 import Card from 'react-bootstrap/Card';
 import Tilt from 'react-tilt';
+import resume from '../../assets/resume/ResumeFeb2021.pdf';
+import './hover.css';
 const About = () => {
   return (
     <div>
@@ -33,6 +35,13 @@ const About = () => {
                     <br />
                     I’m an undergraduate student at the Hong Kong University of
                     Science and Technology, studying Computer Engineer.
+                    <a
+                      href={resume}
+                      target="blank"
+                      class="text-decoration-none button1 hvr-float-shadow"
+                    >
+                      View my resume
+                    </a>
                     <Col className="d-flex justify-content-center flex-wrap"></Col>
                   </Row>
                 </Col>

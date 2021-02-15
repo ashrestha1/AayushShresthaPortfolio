@@ -4,7 +4,7 @@ import CardDeck from 'react-bootstrap/CardDeck';
 import Image from 'react-bootstrap/Image';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-
+import '../about/hover.css';
 // skills
 import { skills } from './skills-data';
 
@@ -29,7 +29,7 @@ const Skills = () => {
                   {skills.frontend.map((skill, index) => (
                     <span className="p-2" key={index}>
                       <a
-                        className="text-dark text-decoration-none"
+                        className="text-dark text-decoration-none hvr-bob"
                         href={skill.link}
                         target="_blank"
                         rel="noopener noreferrer"
@@ -61,7 +61,7 @@ const Skills = () => {
                   {skills.backend.map((skill, index) => (
                     <span className="p-2" key={index}>
                       <a
-                        className="text-dark text-decoration-none"
+                        className="text-dark text-decoration-none hvr-bob"
                         href={skill.link}
                         target="_blank"
                         rel="noopener noreferrer"
@@ -91,7 +91,7 @@ const Skills = () => {
                   {skills.hostingPlatforms.map((skill, index) => (
                     <span className="p-2" key={index}>
                       <a
-                        className="text-dark text-decoration-none"
+                        className="text-dark text-decoration-none hvr-bob"
                         href={skill.link}
                         target="_blank"
                         rel="noopener noreferrer"
@@ -123,7 +123,7 @@ const Skills = () => {
                   {skills.programmingLanguages.map((skill, index) => (
                     <span className="p-2" key={index}>
                       <a
-                        className="text-dark text-decoration-none"
+                        className="text-dark text-decoration-none hvr-bob"
                         href={skill.link}
                         target="_blank"
                         rel="noopener noreferrer"
@@ -154,7 +154,7 @@ const Skills = () => {
                   {skills.databases.map((skill, index) => (
                     <span className="p-2" key={index}>
                       <a
-                        className="text-dark text-decoration-none"
+                        className="text-dark text-decoration-none hvr-bob"
                         href={skill.link}
                         target="_blank"
                         rel="noopener noreferrer"
@@ -183,7 +183,7 @@ const Skills = () => {
                 <Card.Text className="card-text d-flex justify-content-start flex-column">
                   <span className="p-2">
                     <a
-                      className="text-dark text-decoration-none"
+                      className="text-dark text-decoration-none hvr-bob"
                       href={skills.versionControl[0].link}
                       target="_blank"
                       rel="noopener noreferrer"

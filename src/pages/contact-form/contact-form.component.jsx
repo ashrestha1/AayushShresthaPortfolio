@@ -3,6 +3,7 @@ import Button from 'react-bootstrap/Button';
 import Col from 'react-bootstrap/Col';
 import Row from 'react-bootstrap/Row';
 import './contact-form.styles.css';
+import '../about/hover.css';
 
 const ContactForm = () => {
   return (
@@ -14,9 +15,10 @@ const ContactForm = () => {
               href="mailto:aayush.shrestha.hk@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
+              class="hvr-icon-wobble-vertical"
             >
               <Button title="aayush.shrestha.hk@gmail.com">
-                <i className="fa fa-envelope fa-2x"></i>
+                <i className="fa fa-envelope fa-2x hvr-icon"></i>
               </Button>
             </a>
           </div>
@@ -26,9 +28,10 @@ const ContactForm = () => {
               href="https://github.com/ashrestha1"
               target="_blank"
               rel="noopener noreferrer"
+              class="hvr-icon-wobble-vertical"
             >
               <Button title="My other projects">
-                <i className="fab fa-github fa-2x"></i>
+                <i className="fab fa-github fa-2x hvr-icon"></i>
               </Button>
             </a>
           </div>

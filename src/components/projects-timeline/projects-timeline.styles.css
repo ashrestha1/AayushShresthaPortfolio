@@ -15,6 +15,9 @@ body {
 h3 {
   padding-top: 0.25em;
 }
+.timelineInside {
+  text-align: center;
+}
 .vertical-timeline-element-icon svg {
   display: block;
   width: 35px;
