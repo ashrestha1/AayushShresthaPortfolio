@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8395d90e12f5096b0df4d1d926c2c303",
+    "revision": "cbc0401851a5797e419e207b51497c9d",
     "url": "/AayushShresthaPortfolio/index.html"
   },
   {
-    "revision": "7d3b5a89b22e375b1cf5",
+    "revision": "c6e83c9f923d61d30baf",
     "url": "/AayushShresthaPortfolio/static/css/2.2ccb2cba.chunk.css"
   },
   {
-    "revision": "7597913cf26b738cbd73",
-    "url": "/AayushShresthaPortfolio/static/css/main.90dd8660.chunk.css"
+    "revision": "f55f4af5681b6b71db7d",
+    "url": "/AayushShresthaPortfolio/static/css/main.2f2341c7.chunk.css"
   },
   {
-    "revision": "7d3b5a89b22e375b1cf5",
-    "url": "/AayushShresthaPortfolio/static/js/2.b957e7d3.chunk.js"
+    "revision": "c6e83c9f923d61d30baf",
+    "url": "/AayushShresthaPortfolio/static/js/2.abfbf519.chunk.js"
   },
   {
     "revision": "176c1a1a28b19c611d9701905d8d60b7",
-    "url": "/AayushShresthaPortfolio/static/js/2.b957e7d3.chunk.js.LICENSE.txt"
+    "url": "/AayushShresthaPortfolio/static/js/2.abfbf519.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7597913cf26b738cbd73",
-    "url": "/AayushShresthaPortfolio/static/js/main.a34ca2fa.chunk.js"
+    "revision": "f55f4af5681b6b71db7d",
+    "url": "/AayushShresthaPortfolio/static/js/main.3144fe58.chunk.js"
   },
   {
     "revision": "37598bc9e4db532e0466",
@@ -52,12 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AayushShresthaPortfolio/static/media/background.e95d0563.webp"
   },
   {
-    "revision": "9cb9ca6f00cf57630d8a521f76cbe86a",
-    "url": "/AayushShresthaPortfolio/static/media/barack_1.9cb9ca6f.flac"
+    "revision": "2d4478338ed8e9bbb8acc5f511c04d74",
+    "url": "/AayushShresthaPortfolio/static/media/barack_1.2d447833.flac"
   },
   {
-    "revision": "7656b6e16dc92a04c7b11eba61f83abb",
-    "url": "/AayushShresthaPortfolio/static/media/barack_2.7656b6e1.flac"
+    "revision": "b3503657d6798fd61a6d21cfb156aa54",
+    "url": "/AayushShresthaPortfolio/static/media/barack_2.b3503657.flac"
   },
   {
     "revision": "3707da3c6a394c7ee2523273f8d98a25",
@@ -118,6 +118,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a123152868245dee71c441124a98ac3e",
     "url": "/AayushShresthaPortfolio/static/media/nodejs.a1231528.svg"
+  },
+  {
+    "revision": "f6b3628fce2c80e055fac5c2e49d5d90",
+    "url": "/AayushShresthaPortfolio/static/media/obama.f6b3628f.jpg"
   },
   {
     "revision": "cb20f1d366fd9375977e5b92c597206f",
