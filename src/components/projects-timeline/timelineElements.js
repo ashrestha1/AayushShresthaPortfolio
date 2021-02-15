@@ -41,7 +41,8 @@ let timelineElements = [
     key: 6,
     title: 'Tower Defence Project',
     location: '(Java)',
-    description: 'Produced a Tower Defence Game with a user-friendly GUI.',
+    description:
+      'Produced a Tower Defence Game with a user-friendly GUI, using JavaFx. This project features various monsters and towers, each having unique abilities to keep players entertained.',
     date: 'September 2019 – November 2019',
     icon: 'tower',
   },
