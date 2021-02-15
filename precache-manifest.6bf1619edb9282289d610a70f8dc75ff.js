@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc15d062756a877fb085a9bf17fca31a",
+    "revision": "4a1a382fd8be36b02b78fc3ea7c63c98",
     "url": "/AayushShresthaPortfolio/index.html"
   },
   {
-    "revision": "1811fbce2ede799dd70d",
+    "revision": "7d3b5a89b22e375b1cf5",
     "url": "/AayushShresthaPortfolio/static/css/2.2ccb2cba.chunk.css"
   },
   {
-    "revision": "19165610190d1387d6bc",
-    "url": "/AayushShresthaPortfolio/static/css/main.6d698637.chunk.css"
+    "revision": "69c65085c45995bd629b",
+    "url": "/AayushShresthaPortfolio/static/css/main.90dd8660.chunk.css"
   },
   {
-    "revision": "1811fbce2ede799dd70d",
-    "url": "/AayushShresthaPortfolio/static/js/2.c305ec70.chunk.js"
+    "revision": "7d3b5a89b22e375b1cf5",
+    "url": "/AayushShresthaPortfolio/static/js/2.b957e7d3.chunk.js"
   },
   {
     "revision": "176c1a1a28b19c611d9701905d8d60b7",
-    "url": "/AayushShresthaPortfolio/static/js/2.c305ec70.chunk.js.LICENSE.txt"
+    "url": "/AayushShresthaPortfolio/static/js/2.b957e7d3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "19165610190d1387d6bc",
-    "url": "/AayushShresthaPortfolio/static/js/main.174cdc84.chunk.js"
+    "revision": "69c65085c45995bd629b",
+    "url": "/AayushShresthaPortfolio/static/js/main.702c9115.chunk.js"
   },
   {
     "revision": "37598bc9e4db532e0466",
@@ -32,16 +32,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AayushShresthaPortfolio/static/media/C++.8cc47c68.svg"
   },
   {
-    "revision": "fd086983988fe8f8a0b4d36de272d57d",
-    "url": "/AayushShresthaPortfolio/static/media/UST.fd086983.svg"
+    "revision": "054131c64171546776ece64396f379e1",
+    "url": "/AayushShresthaPortfolio/static/media/ResumeFeb2021.054131c6.pdf"
   },
   {
-    "revision": "1550507780b8ec239387f552a620f5a7",
-    "url": "/AayushShresthaPortfolio/static/media/anchor.15505077.svg"
+    "revision": "3dd57818b12d2007ebbfd19d3b789945",
+    "url": "/AayushShresthaPortfolio/static/media/UST.3dd57818.svg"
+  },
+  {
+    "revision": "26d57f7232e5cebf6f8033bed0c9c3b0",
+    "url": "/AayushShresthaPortfolio/static/media/anchor.26d57f72.jpg"
+  },
+  {
+    "revision": "cc94fb7a2911747c4834311f5337fbf5",
+    "url": "/AayushShresthaPortfolio/static/media/anchor.cc94fb7a.svg"
   },
   {
     "revision": "e95d05630894e5403e569fdaa0a2b61a",
     "url": "/AayushShresthaPortfolio/static/media/background.e95d0563.webp"
+  },
+  {
+    "revision": "9cb9ca6f00cf57630d8a521f76cbe86a",
+    "url": "/AayushShresthaPortfolio/static/media/barack_1.9cb9ca6f.flac"
+  },
+  {
+    "revision": "7656b6e16dc92a04c7b11eba61f83abb",
+    "url": "/AayushShresthaPortfolio/static/media/barack_2.7656b6e1.flac"
   },
   {
     "revision": "3707da3c6a394c7ee2523273f8d98a25",
@@ -52,8 +68,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AayushShresthaPortfolio/static/media/express.c6bab64b.svg"
   },
   {
-    "revision": "97934084dd3d272574f351e25a371446",
-    "url": "/AayushShresthaPortfolio/static/media/firstCode.97934084.svg"
+    "revision": "1e9a97f33a7b73bf868b1b8c829437fd",
+    "url": "/AayushShresthaPortfolio/static/media/firstCode.1e9a97f3.svg"
+  },
+  {
+    "revision": "a9b21a238f155391b63eb320c7012360",
+    "url": "/AayushShresthaPortfolio/static/media/firstCode.a9b21a23.png"
   },
   {
     "revision": "c1053fa2a82f9ba18ef77910b5ed17a3",
@@ -112,12 +132,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AayushShresthaPortfolio/static/media/react.4009eef3.svg"
   },
   {
-    "revision": "a5a1e23fd4bbe83d5a6b349548c4647f",
-    "url": "/AayushShresthaPortfolio/static/media/reserved.a5a1e23f.svg"
+    "revision": "583ce0e4513d5ee0a1701b38424efc4b",
+    "url": "/AayushShresthaPortfolio/static/media/reserved.583ce0e4.svg"
   },
   {
-    "revision": "ba3757f5f7f87cc7405175ff3f33b15b",
-    "url": "/AayushShresthaPortfolio/static/media/school.ba3757f5.svg"
+    "revision": "926763ec4203310c411cbc70daafd356",
+    "url": "/AayushShresthaPortfolio/static/media/school.926763ec.svg"
   },
   {
     "revision": "ac471f6d7bf50bdc18fbe435d0554e96",
@@ -128,8 +148,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AayushShresthaPortfolio/static/media/skymont1.8e5f88ca.jpg"
   },
   {
-    "revision": "d81d751608509a101a518934934ce048",
-    "url": "/AayushShresthaPortfolio/static/media/tower.d81d7516.svg"
+    "revision": "444710960bdeb85fa3583cee9c2b62e7",
+    "url": "/AayushShresthaPortfolio/static/media/tower.44471096.svg"
+  },
+  {
+    "revision": "b9afba981a0f346523e8ef544b8e015a",
+    "url": "/AayushShresthaPortfolio/static/media/wislogo.b9afba98.png"
   },
   {
     "revision": "b5594cf82447e91b2f4c23638247df32",
