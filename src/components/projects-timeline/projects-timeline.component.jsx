@@ -26,6 +26,7 @@ import 'react-vertical-timeline-component/style.min.css';
 import './projects-timeline.styles.css';
 import AudioPlayer from 'react-h5-audio-player';
 import 'react-h5-audio-player/lib/styles.css';
+import FYPdemo from '../../assets/video/fyp-app-showcase.mp4';
 
 const TimeLine = () => {
   return (
@@ -174,6 +175,23 @@ const TimeLine = () => {
                     onPlay={(e) => console.log('onPlay')}
                     showJumpControls
                     // other props here
+                  />
+                )}
+
+                {showAudio && (
+                  <p style={{ fontSize: 11, marginTop: '10%' }}>
+                    Demo video of the application
+                  </p>
+                )}
+
+                {showAudio && (
+                  <video
+                    style={{ marginTop: '1%' }}
+                    src={FYPdemo}
+                    width="100%"
+                    height="100%"
+                    controls="controls"
+                    autoPlay="false"
                   />
                 )}
               </div>

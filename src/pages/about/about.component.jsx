@@ -7,7 +7,7 @@ import Profile from '../../assets/img/profile/profile.jpg';
 import Image from 'react-bootstrap/Image';
 import Card from 'react-bootstrap/Card';
 import Tilt from 'react-tilt';
-import resume from '../../assets/resume/ResumeFeb2021.pdf';
+import resume from '../../assets/resume/Aayush_Shrestha_Resume.pdf';
 import './hover.css';
 const About = () => {
   return (
