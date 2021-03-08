@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/AayushShresthaPortfolio/static/css/main.612de75e.chunk.css",
-    "main.js": "/AayushShresthaPortfolio/static/js/main.3144fe58.chunk.js",
-    "main.js.map": "/AayushShresthaPortfolio/static/js/main.3144fe58.chunk.js.map",
+    "main.js": "/AayushShresthaPortfolio/static/js/main.8112e293.chunk.js",
+    "main.js.map": "/AayushShresthaPortfolio/static/js/main.8112e293.chunk.js.map",
     "runtime-main.js": "/AayushShresthaPortfolio/static/js/runtime-main.9dabc3be.js",
     "runtime-main.js.map": "/AayushShresthaPortfolio/static/js/runtime-main.9dabc3be.js.map",
     "static/css/2.2ccb2cba.chunk.css": "/AayushShresthaPortfolio/static/css/2.2ccb2cba.chunk.css",
-    "static/js/2.abfbf519.chunk.js": "/AayushShresthaPortfolio/static/js/2.abfbf519.chunk.js",
-    "static/js/2.abfbf519.chunk.js.map": "/AayushShresthaPortfolio/static/js/2.abfbf519.chunk.js.map",
+    "static/js/2.b31c2b42.chunk.js": "/AayushShresthaPortfolio/static/js/2.b31c2b42.chunk.js",
+    "static/js/2.b31c2b42.chunk.js.map": "/AayushShresthaPortfolio/static/js/2.b31c2b42.chunk.js.map",
     "index.html": "/AayushShresthaPortfolio/index.html",
-    "precache-manifest.9f8b0a20ef6375a147233c8aecbed7a2.js": "/AayushShresthaPortfolio/precache-manifest.9f8b0a20ef6375a147233c8aecbed7a2.js",
+    "precache-manifest.8c9a6b8c9be9e4e4585020f71df973f1.js": "/AayushShresthaPortfolio/precache-manifest.8c9a6b8c9be9e4e4585020f71df973f1.js",
     "service-worker.js": "/AayushShresthaPortfolio/service-worker.js",
     "static/css/2.2ccb2cba.chunk.css.map": "/AayushShresthaPortfolio/static/css/2.2ccb2cba.chunk.css.map",
     "static/css/main.612de75e.chunk.css.map": "/AayushShresthaPortfolio/static/css/main.612de75e.chunk.css.map",
-    "static/js/2.abfbf519.chunk.js.LICENSE.txt": "/AayushShresthaPortfolio/static/js/2.abfbf519.chunk.js.LICENSE.txt",
+    "static/js/2.b31c2b42.chunk.js.LICENSE.txt": "/AayushShresthaPortfolio/static/js/2.b31c2b42.chunk.js.LICENSE.txt",
+    "static/media/Aayush_Shrestha_Resume.pdf": "/AayushShresthaPortfolio/static/media/Aayush_Shrestha_Resume.dc960537.pdf",
     "static/media/C++.svg": "/AayushShresthaPortfolio/static/media/C++.8cc47c68.svg",
-    "static/media/ResumeFeb2021.pdf": "/AayushShresthaPortfolio/static/media/ResumeFeb2021.054131c6.pdf",
     "static/media/UST.3dd57818.svg": "/AayushShresthaPortfolio/static/media/UST.3dd57818.svg",
     "static/media/anchor.jpg": "/AayushShresthaPortfolio/static/media/anchor.26d57f72.jpg",
     "static/media/anchor.cc94fb7a.svg": "/AayushShresthaPortfolio/static/media/anchor.cc94fb7a.svg",
@@ -26,6 +26,7 @@
     "static/media/express.svg": "/AayushShresthaPortfolio/static/media/express.c6bab64b.svg",
     "static/media/firstCode.1e9a97f3.svg": "/AayushShresthaPortfolio/static/media/firstCode.1e9a97f3.svg",
     "static/media/firstCode.png": "/AayushShresthaPortfolio/static/media/firstCode.a9b21a23.png",
+    "static/media/fyp-app-showcase.mp4": "/AayushShresthaPortfolio/static/media/fyp-app-showcase.01abf085.mp4",
     "static/media/fyp.c1053fa2.svg": "/AayushShresthaPortfolio/static/media/fyp.c1053fa2.svg",
     "static/media/git-icon.svg": "/AayushShresthaPortfolio/static/media/git-icon.1190a19c.svg",
     "static/media/github.svg": "/AayushShresthaPortfolio/static/media/github.0ff1a6f0.svg",
@@ -52,8 +53,8 @@
   "entrypoints": [
     "static/js/runtime-main.9dabc3be.js",
     "static/css/2.2ccb2cba.chunk.css",
-    "static/js/2.abfbf519.chunk.js",
+    "static/js/2.b31c2b42.chunk.js",
     "static/css/main.612de75e.chunk.css",
-    "static/js/main.3144fe58.chunk.js"
+    "static/js/main.8112e293.chunk.js"
   ]
 }
